@@ -4,5 +4,18 @@
     1) 몇 개의 페이지를 만들어야 하는가?
        :각각의 페이지 이름을 정하세요.
 	view page? backgraound page? (.jsp)
+resv.jsp(백신예약)
+resvP.jsp(백신예약 데이터 전송)
+resv_list.jsp(예약리스트)
+resv_search.jsp(예약조회)
+resv_search_list.jsp(예약조회 결과)
+resv_total.jsp(백신예약현황)
     2)DB 분석 ?
        : 테이블을 몇 개? 데이터는 올클에서? 폼화면에서?
+	주민정보 (TBL_JUMIN_202108)
+		주어진 데이터는 insert into values 퀴리문으로 입력
+	병원정보 (TBL_HOSP_202108)
+		주어진 데이터는 insert into values 퀴리문으로 입력
+	백신예약정보(TBL_VACCRESV_202108)
+		주어진 데이터는 insert into values 퀴리문으로 입력
+		추가 데이터는 폼화면(백신예약페이지)에서직접 입력
