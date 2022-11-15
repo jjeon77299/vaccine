@@ -5,6 +5,7 @@
 <h2>resv.jsp(백신예약)</h2>
 
 ![image](https://user-images.githubusercontent.com/97486359/201593208-ba75f39f-7991-4844-825a-c9b4c1004e18.png)
+int num에 resv의 최대 값을 +1를 입력
 
 <h2>유효성검사</h2>
 
