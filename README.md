@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/97486359/201811530-06cfd9f4-2994-4a6d-96c4-8c6b2f7e037d.png)
 
-int num에 resv의 최대 값을 +1를 입력
+int num에 resvno의 최대 값을 +1를 입력
 
 <h3>유효성검사</h3>
 
