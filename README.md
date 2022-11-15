@@ -52,7 +52,8 @@ form태그를 이용해 테이블을 만든다.
 <h2>resv_search_list.jsp(예약조회 결과)</h2>
 
 ![image](https://user-images.githubusercontent.com/97486359/201841553-b83f6697-67e4-4f77-94ce-f4a49153c621.png)
-내부 조인을 활용해 3개의 테이블을 합쳐 쿼리문을 작성합니다
+
+외부조인을 이용해 퀴리문을 작성하고 to_char를 활용해 형변환을 한다
 
 ![image](https://user-images.githubusercontent.com/97486359/201842314-705791c8-5024-4b31-96e3-757365af4422.png)
 
